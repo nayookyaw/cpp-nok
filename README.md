@@ -14,7 +14,8 @@ For <strong>Linux and Mac OS </strong>, no need to install. These platforms are 
 
 # How to run
 Go to project folder, and run the file that you want to see <br>
-$ ./helloworld
+$ g++ helloworld.cpp -o helloworld.exe (compile executable file) <br>
+$ helloworld.exe
 
 
 # Lists of codes
