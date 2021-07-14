@@ -30,3 +30,6 @@ $ ./helloworld <br>
 1. helloworld.cpp
 2. printNum.cpp
 3. addTwoNumbers.cpp
+4. outsideClass.cpp
+5. constructor.cpp
+
