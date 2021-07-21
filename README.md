@@ -32,4 +32,6 @@ $ ./helloworld <br>
 3. addTwoNumbers.cpp
 4. outsideClass.cpp
 5. constructor.cpp
-
+6. inheritance.cpp
+7. multiLevelInhertance.cpp
+8. arrayloop.cpp
