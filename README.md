@@ -1,7 +1,7 @@
-/* <br>
-    developed by Nay Oo Kyaw <br>
+
+    Developed by Nay Oo Kyaw <br>
     nayookyaw.nok@gmail.com <br>
-*/
+
 
 # Project Overview
 This project is c++ projects with object-oriented
@@ -35,3 +35,6 @@ $ ./helloworld <br>
 6. inheritance.cpp
 7. multiLevelInhertance.cpp
 8. arrayloop.cpp
+9. encapsulation.cpp
+10. outsideConstructor.cpp
+
