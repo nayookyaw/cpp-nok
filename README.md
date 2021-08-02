@@ -1,6 +1,6 @@
 
-    Developed by Nay Oo Kyaw <br>
-    nayookyaw.nok@gmail.com <br>
+    Developed by Nay Oo Kyaw
+    nayookyaw.nok@gmail.com
 
 
 # Project Overview
